@@ -8,9 +8,12 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #e7e7e7;
-  line-height: 1.6;
-  padding: 40px;
+  color: #404040;
+  line-height: 1.5;
+  width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ececec;
 }
 
 
@@ -22,12 +25,12 @@ h1 {
 
 
 #container-pai {
-  max-width: 800px;
-  margin: 0 auto;
-  background-color: white;
-  padding: 30px;
-  border-radius: 5px;
-  box-shadow: 0px 4px 10px rgba(0.5, 0.5, 0.5, 0.5);
+   max-width: 800px;
+  margin: 40px auto;
+  padding: 40px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 a {
